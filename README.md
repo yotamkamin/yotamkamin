@@ -1,5 +1,12 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/102666498/235361549-d330d768-5487-4789-ae9a-b81be29efb0d.png" width="1600"/>
+  <br/><br/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/yotam-kamin-890b88150/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=yotamkamin&style=for-the-badge&color=ff69b4" alt=""/>
 </div>
 
 
