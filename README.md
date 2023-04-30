@@ -43,3 +43,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yotamkamin&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
