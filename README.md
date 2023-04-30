@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/102666498/235359143-28ab9d11-a354-4164-aa5c-dbf13b035e42.png" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/102666498/235361549-d330d768-5487-4789-ae9a-b81be29efb0d.png" width="1600"/>
 </div>
 
 
@@ -15,4 +15,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Untitled-1]()
+
+
