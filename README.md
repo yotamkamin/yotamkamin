@@ -13,14 +13,23 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my front-end developing skills.
+- 🌱 I’m constantly learning new skills and technologies.
+- 👯 I’m looking to collaborate on a project or contribute to open source projects.
+
+### 📒  Courses:
+
+- Technion – Israel Institute of Technology / Full Stack Web Development Certification
+- The Complete JavaScript Course 2023: From Zero to Expert! / Jonas Schmedtmann
+- Node.js, Express, MongoDB & More: The Complete Bootcamp / Jonas Schmedtmann
+- Game Development with JavaScript / Frank Dvorak
+- Introduction to Computer Networks / Alton Hardin
+- <a href="https://www.credly.com/badges/82789a7c-d44a-4f69-8fbb-9a97e62d9ab5/wallet">
+  Introduction to Cybersecurity / Cisco Network Academy Certification
+</a>
+
+
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
