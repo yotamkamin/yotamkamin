@@ -20,8 +20,10 @@
 ### 📒  Courses:
 
 - Technion – Israel Institute of Technology / Full Stack Web Development Certification
-- The Complete JavaScript Course 2023: From Zero to Expert! / Jonas Schmedtmann
-- Node.js, Express, MongoDB & More: The Complete Bootcamp / Jonas Schmedtmann
+- The Complete JavaScript Course 2023: From Zero to Expert! / Jonas Schmedtmann 
+- <a href="https://www.udemy.com/certificate/UC-bcdc9e3f-e9c1-4f98-85bb-5590eee06557">
+  Node.js, Express, MongoDB & More: The Complete Bootcamp / Jonas Schmedtmann
+</a>  
 - Game Development with JavaScript / Frank Dvorak
 - Introduction to Computer Networks / Alton Hardin
 - <a href="https://www.credly.com/badges/82789a7c-d44a-4f69-8fbb-9a97e62d9ab5/wallet">
