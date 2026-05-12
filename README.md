@@ -1,5 +1,6 @@
+
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/102666498/235361549-d330d768-5487-4789-ae9a-b81be29efb0d.png" width="1600"/>
+  <img width="562" height="214" alt="Screenshot 2026-05-03 at 22 44 32" src="https://github.com/user-attachments/assets/f2fd4d70-370d-4714-827e-acac6c8af8d2" />  
   <br/><br/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/yotam-kamin-890b88150/">
